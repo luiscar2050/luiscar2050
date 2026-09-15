@@ -103,3 +103,7 @@ Actualmente fortaleciendo mis conocimientos en Java, Spring Boot y Angular.
 ## 📌 En progreso
 
 Actualmente estoy construyendo proyectos para fortalecer mis conocimientos en Java, Spring Boot y Angular.
+
+## 🌱 En aprendizaje
+
+Actualmente estoy fortaleciendo mis conocimientos en Java, Git y GitHub.
