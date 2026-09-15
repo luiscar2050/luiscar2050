@@ -99,3 +99,7 @@ Estoy abierto a oportunidades, proyectos y conexiones relacionadas con el desarr
 Tecnólogo en Análisis y Desarrollo de Software.
 
 Actualmente fortaleciendo mis conocimientos en Java, Spring Boot y Angular.
+
+## 📌 En progreso
+
+Actualmente estoy construyendo proyectos para fortalecer mis conocimientos en Java, Spring Boot y Angular.
