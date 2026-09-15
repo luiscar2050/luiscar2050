@@ -93,3 +93,9 @@ Explorando herramientas de Inteligencia Artificial como apoyo al aprendizaje y a
 ## 📫 Contacto
 
 Estoy abierto a oportunidades, proyectos y conexiones relacionadas con el desarrollo de software.
+
+## 📖 Formación
+
+Tecnólogo en Análisis y Desarrollo de Software.
+
+Actualmente fortaleciendo mis conocimientos en Java, Spring Boot y Angular.
